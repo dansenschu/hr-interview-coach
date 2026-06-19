@@ -1,0 +1,9 @@
+node_modules/
+dist/
+dist-github/
+.next/
+.open-next/
+.wrangler/
+public/screenshot.png
+.DS_Store
+npm-debug.log*
